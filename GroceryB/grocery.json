@@ -1,0 +1,71 @@
+var products = [{
+
+   "status": "20",
+
+   "productName": "Cabbage",
+
+   "image": "img/cabbage.jpg",
+
+   "price": "2"
+
+}, {
+
+   "status": "5",
+
+   "productName": "Mango",
+
+   "image": "img/mango.jpg",
+
+   "price": "4"
+
+}, {
+
+   "status": "0",
+
+   "productName": "Broccoli",
+
+   "image": "img/broccoli.jpg",
+
+   "price": "2,50"
+
+}, {
+
+   "status": "80",
+
+   "productName": "Strawberry",
+
+   "image": "img/strawberry.jpg",
+
+   "price": "1"
+
+}, {
+
+   "status": "90",
+
+   "productName": "Ananas",
+
+   "image": "img/ananas.jpg",
+
+   "price": "5"
+
+}, {
+
+   "status": "0",
+
+   "productName": "Banana",
+
+   "image": "img/banana.jpg",
+
+   "price": "1,50"
+
+}, {
+
+   "status": "150",
+
+   "productName": "Apple",
+
+   "image": "img/apple.jpg",
+
+   "price": "0,50"
+
+}, 
